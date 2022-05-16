@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teanix)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![Teanix's github stats](https://github-readme-stats.vercel.app/api?username=Teanix)](https://github.com/anuraghazra/github-readme-stats)
 
 My name is Junqing Yang (you can call me Teanix if you like).
 
