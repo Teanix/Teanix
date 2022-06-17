@@ -13,7 +13,7 @@ I'm a master student of Xi'an University of Posts and Telecommunications in Xi'a
 - ✨ I’m looking to collaborate on anything related to  Linux, eBPF
 - 📫 How to reach me: teanix@163.com
 
-I have a website where you can find some information :  https://www.teanixcode.top/
+<!--I have a website where you can find some information :  https://www.teanixcode.top/-->
 
 <!--
 **Teanix/Teanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
